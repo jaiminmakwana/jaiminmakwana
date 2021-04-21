@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaiminmakwana
 - 👀 I’m interested in Data science and Artificial Intelligence
 - 🌱 I’m currently doing an Internship in Data Science
-- 💞️ I’m looking to collaborate on tranding projects.
+- 💞️ I’m looking to collaborate on trending projects.
 - 📫 LinkedIn: www.linkedin.com/in/jaimin-makwana
 
 <!---
