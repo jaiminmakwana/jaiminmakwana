@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaiminmakwana
-- 👀 I’m interested in Data science and Artificial Intelligence
-- 🌱 I’m currently doing an Internship in Data Science
+- 👀 I’m interested in Data Science and Artificial Intelligence
+- 🌱 I’m currently working as a Data Scientist at Infosenseglobal
 - 💞️ I’m looking to collaborate on trending projects.
 - 📫 LinkedIn: www.linkedin.com/in/jaimin-makwana
 
