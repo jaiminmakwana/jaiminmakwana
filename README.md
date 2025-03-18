@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jaiminmakwana
+- 👋 Hi, I’m Jaimin
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently working as a Data Scientist at Infosenseglobal
+- 🌱 I’m currently working as a AI/ML Developer @Smartbear
 - 💞️ I’m looking to collaborate on trending projects.
 - 📫 LinkedIn: www.linkedin.com/in/jaimin-makwana
 
